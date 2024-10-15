@@ -31,3 +31,5 @@ pytube
 numexpr
 huggingface_hub          
 langserve
+sse_starlette
+streamlit
